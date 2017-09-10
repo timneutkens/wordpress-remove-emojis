@@ -1,0 +1,12 @@
+{
+    "name": "timneutkens/wordpress-remove-emojis",
+    "description": "Remove emoji scripts from <head>",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tim Neutkens",
+            "email": "tim@weprovide.com"
+        }
+    ]
+}
